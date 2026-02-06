@@ -1,7 +1,4 @@
-<!-- Header Image -->
-<p align="center">
-  <img src="Screenshots/lavina-1.png" width="100%" alt="Header Image">
-</p>
+
 
 <h1 align="center">Lavina Sonp</h1>
 <h3 align="center">Data Analyst</h3>
