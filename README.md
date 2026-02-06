@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Lavina Sonp</h1>
+<h1 align="center">Laveena Sonp</h1>
 <h3 align="center">Data Analyst</h3>
 
 <p align="center">
