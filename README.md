@@ -1,21 +1,46 @@
-# Hi there, I'm a Data Analyst
+<!-- Header Image -->
+<p align="center">
+  <img src="Screenshots/lavina-1.png" width="100%" alt="Header Image">
+</p>
 
-> *I turn raw data into decisions. Specializing in predictive modeling, supply chain optimization, and financial risk assessment.*
+<h1 align="center">Lavina Sonp</h1>
+<h3 align="center">Data Analyst</h3>
 
-I am a Data Analyst passionate about solving business problems through code and statistical rigor. My work bridges the gap between complex algorithms and actionable business strategies, moving from **Excel** prototypes to production-grade **Machine Learning** pipelines.
-
----
-
-### The Toolkit
-
-| **Analysis & Modeling** | **Database & Big Data** | **Visualization & BI** |
-| :--- | :--- | :--- |
-|  **Python** (Pandas, Scikit-Learn) | **SQL** (Complex Queries) |  **Power BI** (Dashboards) |
-|  **Machine Learning** (LightGBM) | **Dask** (Scalable Computing) |  **Excel** (Pivot Tables, VBA) |
-| **Forecasting** |  **ETL Pipelines** |  **Streamlit** (Data Apps) |
+<p align="center">
+  Turning data into clarity. Turning numbers into decisions.
+</p>
 
 ---
 
+## About Me
 
-### 📫 Let's Connect
-* [**LinkedIn**](https://www.linkedin.com/in/lavina-sonp)
+Hi, I'm Lavina Sonp — a Data Analyst.
+
+I specialize in analyzing, interpreting, and transforming data into meaningful insights that support informed business decisions. With strong analytical skills and hands-on project experience, I focus on delivering accurate, actionable, and data-driven solutions.
+
+From data cleaning and exploration to visualization and reporting, I enjoy working with real-world datasets and uncovering patterns that drive growth and efficiency.
+
+I believe in structured thinking, evidence-based analysis, and continuous improvement.
+
+> **In God we trust. All others must bring data.**
+
+---
+
+<!-- Visual Divider Section -->
+<!-- Visual Divider Section -->
+<p align="center">
+  <img src="Screenshots/lavina-2.png" width="30%" alt="Visual 1" />
+  <img src="Screenshots/lavina-3.png" width="30%" alt="Visual 2" />
+  <img src="Screenshots/lavina-4.png" width="30%" alt="Visual 3" />
+</p>
+
+---
+
+## Technical Focus
+
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Data Visualization & Reporting
+- Business Intelligence
+- Dashboard Development
+- Statistical Analysis
