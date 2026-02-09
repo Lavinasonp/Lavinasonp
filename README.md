@@ -23,15 +23,6 @@ I believe in structured thinking, evidence-based analysis, and continuous improv
 
 ---
 
-<!-- Visual Divider Section -->
-<!-- Visual Divider Section -->
-<p align="center">
-  <img src="Screenshots/lavina-2.png" width="30%" alt="Visual 1" />
-  <img src="Screenshots/lavina-3.png" width="30%" alt="Visual 2" />
-  <img src="Screenshots/lavina-4.png" width="30%" alt="Visual 3" />
-</p>
-
----
 
 ## Technical Focus
 
